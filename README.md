@@ -1,5 +1,7 @@
 # Remote Workstation Bridge: Your Powerful Desktop, Anywhere 🚀
 
+[![Read on DEV.to](https://img.shields.io/badge/Read%20the%20full%20guide-on%20DEV.to-0A0A0A?style=for-the-badge&logo=dev.to)]([https://dev.to/your-username/your-article-slug](https://dev.to/jbrito00/remote-workstation-bridge-your-powerful-desktop-anywhere-3jg2))
+
 Ever feel held back by your aging laptop? Most of us require its portability, but it just can't keep up with demanding tasks like coding or 3D modeling. Upgrading internal components is often impossible, and buying a new high-performance laptop can be incredibly expensive. Meanwhile, your powerful desktop PC, with all its upgradeable glory, sits at home, out of reach.
 
 This guide solves that exact problem. I'll show you how to build a **secure and efficient bridge** to your home desktop from anywhere in the world. By using a cheap Raspberry Pi and free software, you can wake up your desktop on demand and stream its full power directly to your laptop's screen with minimal latency. It's like taking your entire desktop setup with you, packed into the convenience of your portable machine.
