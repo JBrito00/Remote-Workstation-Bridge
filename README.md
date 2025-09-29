@@ -1,9 +1,4 @@
-# index.md or guide.md
-
----
-layout: page
-title: "Remote Workstation Bridge: Your Powerful Desktop, Anywhere 🚀"
----
+# Remote Workstation Bridge: Your Powerful Desktop, Anywhere 🚀
 
 Ever feel held back by your aging laptop? Most of us require its portability, but it just can't keep up with demanding tasks like coding or 3D modeling. Upgrading internal components is often impossible, and buying a new high-performance laptop can be incredibly expensive. Meanwhile, your powerful desktop PC, with all its upgradeable glory, sits at home, out of reach.
 
@@ -99,4 +94,4 @@ The magic lies in a simple, low-power device: the **Raspberry Pi**. It will stay
     # Replace the MAC address with your desktop's
     wakeonlan 1A:2B:3C:4D:5E:6F
     ```
-3.  **Connect with Parsec**: Wait a minute for your desktop to boot, then open Parsec on your laptop. Your desktop will appear as connectable. Click **"Connect"** and enjoy!
+3.  **Connect with Parsec**: Wait a bit for your desktop to boot, then open Parsec on your laptop. Your desktop will appear as connectable or try refreshing it. Click **"Connect"** and enjoy!
