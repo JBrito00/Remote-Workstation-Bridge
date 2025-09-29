@@ -95,3 +95,9 @@ The magic lies in a simple, low-power device: the **Raspberry Pi**. It will stay
     wakeonlan 1A:2B:3C:4D:5E:6F
     ```
 3.  **Connect with Parsec**: Wait a bit for your desktop to boot, then open Parsec on your laptop. Your desktop will appear as connectable or try refreshing it. Click **"Connect"** and enjoy!
+
+---
+Thanks for reading! I'd love to connect. You can find me on:
+
+- 💼 **LinkedIn:** [João Brito](https://www.linkedin.com/in/jo%C3%A3o-brito-95228b20a/)
+- 🐙 **GitHub:** [JBrito00](https://github.com/JBrito00)
