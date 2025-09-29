@@ -25,10 +25,10 @@ The magic lies in a simple, low-power device: the **Raspberry Pi**. It will stay
 
 ### Software & Services
 * **Raspberry Pi OS Lite (32-bit)**: A lightweight, headless operating system.
-* **Wake-on-LAN tool**: We'll use `ether-wake`.
+* **`wakeonlan`**: A Simple command line tool to send Wol packets.
 * **ZeroTier**: A free virtual private network service.
 * **Parsec**: A free, high-performance remote desktop application.
-* **An SSH Client**: Your laptop's terminal (macOS/Linux) or a tool like PuTTY (Windows).
+* **An SSH Client**: Your laptop's terminal.
 
 ***
 
