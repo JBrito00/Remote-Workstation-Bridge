@@ -1,0 +1,11 @@
+# Basic info
+title: Remote Workstation Bridge
+author: João Brito
+description: A guide and setup for using a Raspberry Pi as a remote access hub using open-source tools (Wake-on-LAN, ZeroTier VPN, Parsec).
+
+# Theme
+theme: jekyll-theme-cayman
+
+# Plugins
+plugins:
+  - jekyll-feed
